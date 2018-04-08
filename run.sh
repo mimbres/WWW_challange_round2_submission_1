@@ -9,9 +9,9 @@
 
 
 # SET Data Path
-export TEST_DIRECTORY=data/crowdai_fma_test/
+#export TEST_DIRECTORY=data/crowdai_fma_test/
 export FEATURE_DIRECTORY=data/preprocessed_data_spec/test/
-export OUTPUT_PATH=output.csv
+#export OUTPUT_PATH=output.csv
 
 
 echo "TEST Directory: $TEST_DIRECTORY"
